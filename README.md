@@ -1,5 +1,5 @@
 # 郭本正
-![[obsidian://open?vault=Obsidian&file=Z-%E9%99%84%E4%BB%B6%2F%E5%9B%BE%E7%89%87%2F%E5%9B%BE%E7%89%875%2F%E8%AF%81%E4%BB%B6%E7%85%A7.jpg]]
+![证件照](https://github.com/Sadahlu/testProject2/assets/126563707/ba325de2-d4cf-4e80-8880-64eb1588450d)
 ## 个人介绍
 - **郭本正**，华中师范大学计算机学院学生，主要学习方向：安卓开发，ui设计，uml，微信小程序开发
 ## 教育背景
